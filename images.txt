@@ -1,6 +1,6 @@
 nginx
 node:20.16.0
-python:3.12-windowsservercore-ltsc2022
+python:latest
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
