@@ -2,6 +2,7 @@ nginx
 node:20.16.0
 python:latest
 python:3.12.1
+python:3.13.2
 node:16-alpine
 node:alpine
 #支持私库
