@@ -3,6 +3,7 @@ node:20.16.0
 python:latest
 python:3.12.1
 python:3.13.2
+postgres:17
 node:16-alpine
 node:alpine
 ubuntu:20.04
